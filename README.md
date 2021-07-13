@@ -3,4 +3,6 @@
 [![Twitter: michalspano](https://img.shields.io/twitter/follow/michalspano?style=social)](https://twitter.com/michalspano)
 [![GitHub michalspano](https://img.shields.io/github/followers/michalspano?label=follow&style=social)](https://github.com/michalspano)
 
-## [*The Swedish Twitter Bot*](https://michalspano.github.io/The-Swedish-Bot/) website!
+<h1> My projects: </h1>
+
+### 1. [**The Swedish Twitter Bot**](https://michalspano.github.io/The-Swedish-Bot/) website!
