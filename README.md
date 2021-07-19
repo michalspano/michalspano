@@ -5,4 +5,5 @@
 
 <h1> My projects: </h1>
 
-### 1. [**The Swedish Twitter Bot**](https://michalspano.github.io/The-Swedish-Bot/) website!
+### 1. [**Personal CC Portfolio**](https://michalspano.myportfolio.com) Website
+### 2. [**The Swedish Twitter Bot**](https://michalspano.github.io/The-Swedish-Bot/) Website
