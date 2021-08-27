@@ -26,7 +26,7 @@
   <br><br>
   <b>(WIP)</b> <br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=michalspano&hide_title=true&layout=compact">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=michalspano&layout=default&hide_title=true">
   </a>
 </p>
 
