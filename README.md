@@ -23,11 +23,6 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michalspano&layout=compact&langs_count=10&card_width=450&hide_title=true&hide=swift">
   </a>
-  <br><br>
-  <b>(WIP)</b> <br>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=michalspano&layout=default&hide_title=true">
-  </a>
 </p>
 
 <h2 align="center"> My projects <img src="https://media.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif" width="50"></h2>
