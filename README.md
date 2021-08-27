@@ -1,23 +1,33 @@
-<h2> Hello, I'm Michal! <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="50"></h2>
+<!-- Align in center using HTML tags (markdown support)-->
 
-[![Twitter: michalspano](https://img.shields.io/twitter/follow/michalspano?style=social)][TWITTER]
-[![GitHub michalspano](https://img.shields.io/github/followers/michalspano?label=follow&style=social)][GITHUB]
+<h1 align="center"> Hello, I'm Michal! <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="50"></h1>
 
-<h2> My Stats <img src="https://media.giphy.com/media/gJnjM552Kz2uUQvJEf/giphy.gif" width="50"></h2>
+<!-- BADGES AND SHIELDS-->
+<!-- Credits: https://github.com/anuraghazra/github-readme-stats -->
 
-[![Michal's GitHub stats](https://github-readme-stats.vercel.app/api?username=michalspano&theme=tokyonight)][STYLE-SHEET] <br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michalspano&layout=compact)][STYLE-SHEET]
+<p align="center">
+  <a href=[TWITTER]> 
+    <img src="https://img.shields.io/twitter/follow/michalspano?style=social">
+  </a>
+  <a href="https://github.com/michalspano">
+    <img src="https://img.shields.io/github/followers/michalspano?label=follow&style=social">
+</p>
 
-<h2> My projects <img src="https://media.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif" width="50"></h2>
+<h2 align="center"> My Stats <img src="https://media.giphy.com/media/gJnjM552Kz2uUQvJEf/giphy.gif" width="50"></h2><br>
 
-### 1. [**Personal CC Portfolio**](https://michalspano.myportfolio.com) Website <br>
-### 2. [**Organisation for Developers**][DEV] <br>
-### 3. [**The Swedish Twitter Bot**](https://michalspano.github.io/The-Swedish-Bot/) Website
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michalspano&repo=The-Swedish-Bot)][THE-SWEDISH-BOT]
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=michalspano&theme=tokyonight">
+  </a>
+  <br><br>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michalspano&layout=compact&langs_count=10&card_width=450&hide_title=true&hide=swift">
+  </a>
+</p>
 
-<!-- Link Refs -->
-[TWITTER]: (https://twitter.com/michalspano)
-[GITHUB]: (https://github.com/michalspano)
-[DEV]: https://github.com/Youth-Dev-Foundation
-[STYLE-SHEET]: (https://github.com/anuraghazra/github-readme-stats)
-[THE-SWEDISH-BOT]: (https://github.com/anuraghazra/github-readme-stats)
+<h2 align="center"> My projects <img src="https://media.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif" width="50"></h2>
+
+<!-- Projects section -->
+<h3 align="center">1. <a href="https://michalspano.myportfolio.com">Personal CC Portfolio</a></h3>
+<h3 align="center">2. <a href="https://github.com/Youth-Dev-Foundation">Organisation for Developers</a></h3>
+<h3 align="center">3. <a href="https://michalspano.github.io/The-Swedish-Bot"> The Swedish Twitter Bot </a></h3>
