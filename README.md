@@ -15,6 +15,7 @@
 
 <h2 align="center"> My Stats <img src="https://media.giphy.com/media/gJnjM552Kz2uUQvJEf/giphy.gif" width="50"></h2><br>
 
+<!-- STATS SHIELDS -->
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=michalspano&theme=tokyonight">
@@ -22,6 +23,9 @@
   <br><br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michalspano&layout=compact&langs_count=10&card_width=450&hide_title=true&hide=swift">
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=michalspano&hide_title=true&langs_count=10&layout=compact">
   </a>
 </p>
 
