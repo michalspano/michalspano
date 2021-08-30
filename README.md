@@ -26,7 +26,7 @@
   </a>
   <br><br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michalspano&layout=compact&langs_count=10&card_width=450&hide_title=true&hide=swift&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michalspano&layout=compact&langs_count=10&card_width=450&hide_title=true&hide=swift,TeX,jupyter%20notebook&theme=tokyonight">
   </a>
   <br><br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
