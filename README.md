@@ -30,7 +30,7 @@
   </a>
   <br><br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=michalspano&hide_title=true&langs_count=10&layout=compact&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=michalspano&hide_title=true&layout=compact&theme=tokyonight">
   </a>
 </p>
 
