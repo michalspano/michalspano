@@ -5,6 +5,7 @@
 <!-- BADGES AND SHIELDS-->
 <!-- Credits: https://github.com/anuraghazra/github-readme-stats -->
 
+<!--
 <p align="center">
   <a href=[TWITTER]> 
     <img src="https://img.shields.io/twitter/follow/michalspano?style=social">
@@ -13,9 +14,22 @@
     <img src="https://img.shields.io/github/followers/michalspano?label=follow&style=social">
   </a>
 </p>
+-->
 
 <!-- CONTACT ME SECTION -->
-<h4 align="center">💬 Ask me anything <a href="https://github.com/michalspano/michalspano/issues">here</a></h4><br>
+<h4 align="center"> 💬 Ask me anything <a href="https://github.com/michalspano/michalspano/issues">here</a></h4><br>
+
+<!-- NEW Social badges-->
+<p align="center">
+  <a href="https://github.com/michalspano">
+    <img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px">
+  </a>
+
+  <a href="https://twitter.com/michalspano">
+    <img src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_twitter-256.png" 
+    width="32px" height="32px">
+  </a>
+</p>
 
 <h3 align="center"> My Stats <img src="https://media.giphy.com/media/gJnjM552Kz2uUQvJEf/giphy.gif" width="50"></h3><br>
 
@@ -38,5 +52,11 @@
 
 <!-- Projects section -->
 <h3 align="center">1. <a href="https://michalspano.myportfolio.com">Personal CC Portfolio</a></h3>
-<h3 align="center">2. <a href="https://github.com/Youth-Dev-Foundation">Organisation for Developers</a></h3>
+<h3 align="center">2. <a href="https://github.com/Youth-Dev-Foundation">Organization for Developers</a></h3>
 <h3 align="center">3. <a href="https://michalspano.github.io/The-Swedish-Bot"> The Swedish Twitter Bot </a></h3>
+
+<!-- VISITORS COUNT SECTION -->
+<br><h3 align="center"> Visitors count </h3>
+<p align="center">
+  <img src="https://profile-counter.glitch.me/michalspano/count.svg">
+</p>                                                    
