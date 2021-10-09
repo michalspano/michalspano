@@ -29,7 +29,13 @@
     <img src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_twitter-256.png" 
     width="32px" height="32px">
   </a>
+  
+  <!-- KO-FI Support src -->
+  <a href="https://ko-fi.com/B0B66ISWX">
+    <img src="https://ko-fi.com/img/githubbutton_sm.svg">
+  </a>
 </p>
+
 
 <h3 align="center"> My Stats <img src="https://media.giphy.com/media/gJnjM552Kz2uUQvJEf/giphy.gif" width="50"></h3><br>
 
