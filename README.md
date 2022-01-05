@@ -37,7 +37,7 @@
 </p>
 
 
-<h3 align="center"> My Stats <img src="https://media.giphy.com/media/gJnjM552Kz2uUQvJEf/giphy.gif" width="50"></h3><br>
+<!-- <h3 align="center"> My Stats <img src="https://media.giphy.com/media/gJnjM552Kz2uUQvJEf/giphy.gif" width="50"></h3><br> -->
 
 <!-- STATS SHIELDS -->
 <p align="center">
@@ -54,15 +54,17 @@
   </a>
 </p>
 
-<h3 align="center"> My projects <img src="https://media.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif" width="50"></h3>
+<!-- DEPRECATED -->
+<!-- <h3 align="center"> My projects <img src="https://media.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif" width="50"></h3> -->
 
 <!-- Projects section -->
-<h3 align="center">1. <a href="https://michalspano.myportfolio.com">Personal CC Portfolio</a></h3>
+<!-- <h3 align="center">1. <a href="https://michalspano.myportfolio.com">Personal CC Portfolio</a></h3>
 <h3 align="center">2. <a href="https://github.com/Youth-Dev-Foundation">Organization for Developers</a></h3>
 <h3 align="center">3. <a href="https://michalspano.github.io/The-Swedish-Bot"> The Swedish Twitter Bot </a></h3>
-
-<!-- VISITORS COUNT SECTION -->
-<br><h3 align="center"> Visitors count </h3>
+ -->
+ 
+<!-- VISITORS COUNT SECTION (deprecated) -->
+<!-- <br><h3 align="center"> Visitors count </h3>
 <p align="center">
   <img src="https://profile-counter.glitch.me/michalspano/count.svg">
-</p>                                                    
+</p>                                                     -->
