@@ -3,23 +3,11 @@
 <h3 align="center"> Hi there, I'm Michal! <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="50"></h3>
 
 <!-- BADGES AND SHIELDS-->
-<!-- Credits: https://github.com/anuraghazra/github-readme-stats -->
 
-<!--
-<p align="center">
-  <a href=[TWITTER]> 
-    <img src="https://img.shields.io/twitter/follow/michalspano?style=social">
-  </a>
-  <a href="https://github.com/michalspano">
-    <img src="https://img.shields.io/github/followers/michalspano?label=follow&style=social">
-  </a>
-</p>
--->
-
-<!-- CONTACT ME SECTION -->
+<!-- CONTACT -->
 <h4 align="center"> 💬 Ask me anything <a href="https://github.com/michalspano/michalspano/issues">here</a></h4><br>
 
-<!-- NEW Social badges-->
+<!-- Social badges-->
 <p align="center">
   <a href="https://github.com/michalspano">
     <img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px">
@@ -36,7 +24,6 @@
   </a>
 </p>
 
-
 <!-- <h3 align="center"> My Stats <img src="https://media.giphy.com/media/gJnjM552Kz2uUQvJEf/giphy.gif" width="50"></h3><br> -->
 
 <!-- STATS SHIELDS -->
@@ -46,23 +33,21 @@
   </a>
   <br><br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
+    <!-- Exclude: Swift, ipynb -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michalspano&layout=compact&langs_count=10&card_width=450&hide_title=true&hide=swift,jupyter%20notebook&theme=tokyonight">
   </a>
+
+  <!-- DEPRECATED -->
+  <!-- Remove public display of Wakatime stats
+
   <br><br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=michalspano&hide_title=true&layout=compact&theme=tokyonight">
-  </a>
+  </a> 
+  -->
+
 </p>
 
-<!-- DEPRECATED -->
-<!-- <h3 align="center"> My projects <img src="https://media.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif" width="50"></h3> -->
-
-<!-- Projects section -->
-<!-- <h3 align="center">1. <a href="https://michalspano.myportfolio.com">Personal CC Portfolio</a></h3>
-<h3 align="center">2. <a href="https://github.com/Youth-Dev-Foundation">Organization for Developers</a></h3>
-<h3 align="center">3. <a href="https://michalspano.github.io/The-Swedish-Bot"> The Swedish Twitter Bot </a></h3>
- -->
- 
 <!-- VISITORS COUNT SECTION (deprecated) -->
 <!-- <br><h3 align="center"> Visitors count </h3>
 <p align="center">
