@@ -27,15 +27,17 @@
 <!-- <h3 align="center"> My Stats <img src="https://media.giphy.com/media/gJnjM552Kz2uUQvJEf/giphy.gif" width="50"></h3><br> -->
 
 <!-- STATS SHIELDS -->
+<!-- deprecated; TODO: fix Vercel deployment issue
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=michalspano&show_icons=true&theme=tokyonight&include_all_commits=true">
   </a>
   <br><br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <!-- Exclude: Swift, ipynb -->
+     Exclude: Swift, ipynb 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michalspano&layout=compact&langs_count=10&card_width=450&hide_title=true&hide=swift,jupyter%20notebook&theme=tokyonight">
   </a>
+  -->
 
   <!-- DEPRECATED -->
   <!-- Remove public display of Wakatime stats
