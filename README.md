@@ -9,13 +9,22 @@
 
 <!-- Social badges-->
 <p align="center">
+  
+  <a href="https://linkedin.com/in/michalspano">
+    <img src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_linkedin-256.png" 
+      width="32px" height="32px">
+    </img>
+  </a>
+  
   <a href="https://github.com/michalspano">
     <img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px">
+    </img>
   </a>
 
   <a href="https://twitter.com/michalspano">
     <img src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_twitter-256.png" 
-    width="32px" height="32px">
+         width="32px" height="32px">
+    </img>
   </a>
   
   <!-- KO-FI Support src -->
