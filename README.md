@@ -12,14 +12,18 @@
   </a>
   
   <a href="https://linkedin.com/in/michalspano">
-    <img src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_linkedin-256.png" 
-      width="32px" height="32px">
+    <img src="docs/linkedin_icon.png" width="32px" height="32px">
     </img>
   </a>
 
   <a href="https://twitter.com/michalspano">
     <img src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_twitter-256.png" 
          width="32px" height="32px">
+    </img>
+  </a>
+
+  <a href="https://discordapp.com/users/868206977266884618">
+    <img src="docs/discord_icon.png" width="32px" height="auto">
     </img>
   </a>
   
