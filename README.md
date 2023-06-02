@@ -2,7 +2,7 @@
 <h3 align="center"> Hi there, I'm Michal! <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="50"></h3>
 
 <!-- CONTACT -->
-<h4 align="center"> 💬 Ask me anything <a href="https://github.com/michalspano/michalspano/issues">here</a></h4><br>
+<h4 align="center"> 💬 Ask me anything <a href="https://github.com/michalspano/michalspano/issues/new/choose">here</a></h4><br>
 
 <!-- Social badges-->
 <p align="center">
